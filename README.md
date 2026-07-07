@@ -56,7 +56,7 @@ House_Price_Project/
 ├── house_model.pkl
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+
 ```
 
 ## 🎯 Project Objective
