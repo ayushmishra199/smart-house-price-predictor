@@ -1,5 +1,11 @@
 # 🏠 House Price Prediction
+# 🏠 House Price Prediction
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success)](https://smart-house-price-predictor-anbedjjvfhgx3nu6xfloqh.streamlit.app/)
+
+### Predict property values with Machine Learning and Streamlit
+
+A web-based Machine Learning application...
 ### Predict property values with Machine Learning and Streamlit
 
 A web-based Machine Learning application that helps estimate house prices based on important property features. The project combines data analysis, predictive modeling, and an interactive Streamlit interface to provide quick and accurate price predictions.
