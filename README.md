@@ -1,5 +1,4 @@
 # 🏠 House Price Prediction
-# 🏠 House Price Prediction
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success)](https://smart-house-price-predictor-anbedjjvfhgx3nu6xfloqh.streamlit.app/)
 
